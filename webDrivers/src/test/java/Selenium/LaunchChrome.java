@@ -8,7 +8,7 @@ public class LaunchChrome {
 		
 		System.setProperty("webdriver.chrome.driver", "C:\\Users\\LENOVO\\Desktop\\Testing master\\chromedriver.exe");
 		ChromeDriver driver = new ChromeDriver();
-		driver.get("https://www.facebook.com/");
+		driver.get("https://www.gmail.com");
 
 	}
 
